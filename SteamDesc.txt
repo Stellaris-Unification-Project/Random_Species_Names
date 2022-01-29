@@ -1,0 +1,37 @@
+An update to make Ermedo's random species names work with 3.*. This is stand-alone, and the original does not work anymore.
+
+All credit to Ermedo.
+
+Original Mod: https://steamcommunity.com/sharedfiles/filedetails/?id=1827170321
+
+=============
+
+[h1]Some Other Mods I've Made/Updated:[/h1]
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2434790082]- Civil Wars[/url]
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2158334880]- More Authorities[/url]
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2114559224]- Viable Feudalism and Imperialism - Empire Federation[/url]
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2491283817]- Useful Heirs[/url]
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2181441455]- Species Name to Nation Demonym[/url]
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2493028212]- End Truce & Close Borders[/url]
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2452302093]- We Require Borders[/url]
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2183551683]- Vassals Expanded and Reworked - FunEFork[/url]
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2177145527]- Intervene: Help Friendly Nations - FunEFork[/url]
+
+===
+
+[url=https://ko-fi.com/mrfuneguy][img]https://i.imgur.com/EEyEFg6.png[/img][/url]
+
+[url=https://www.patreon.com/mrfuneguy][img]https://i.imgur.com/pdV33j3.png[/img][/url]
+
+===
+
+[url=https://discord.gg/bHVez2C][img]https://i.imgur.com/4Und3QN.png[/img][/url]
